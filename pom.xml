@@ -26,7 +26,7 @@
 	<name>Flume NG Cassandra Sink</name>
 
 	<properties>
-		<flume-version>1.1.0-cdh3u5-pre1-SNAPSHOT</flume-version>
+		<flume-version>1.1.0-cdh4.0.1</flume-version>
 		<hector-version>1.1-2</hector-version>
 	</properties>
 
